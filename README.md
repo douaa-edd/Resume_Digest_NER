@@ -34,7 +34,7 @@ The system is based on a **pre-trained Transformer model**, bert-base-cased, fin
 
 Resume_Digest_NER/
 
-├── app.py # 🚀 Main Streamlit application
+├── **app.py** # 🚀 Main Streamlit application
 
 ├── model/ # 🧠 Trained spaCy NER model (with BERT backbone)
 
@@ -42,29 +42,26 @@ Resume_Digest_NER/
 │
 │   ├── CV_pdf/ # 📄 Input resumes in PDF format
 │
+|
 │   ├── CV_txt/ # 📝 Raw extracted text from PDFs
 │   
 │
-│   ├── CV_cleaned/
-│   # 🧹 Cleaned/preprocessed CV text
+│   ├── CV_cleaned/ # 🧹 Cleaned/preprocessed CV text
+│   
 │
-│   └── CV_annot/
-│   # 🏷️ (Optional) annotated data for future training
+│   └── CV_annot/ # 🏷️ (Optional) annotated data for future training
+|
+│   
+├── pdf_to_txt.py # 🔧 PDF-to-text conversion script
 
-├── pdf_to_txt.py
-# 🔧 PDF-to-text conversion script
+├── Data_Preprocessing.py # ⚙️ Cleaning & text preprocessing utilities
 
-├── Data_Preprocessing.py
-# ⚙️ Cleaning & text preprocessing utilities
+├── Training.ipynb # 📘 (Optional) NER training notebook
 
-├── Training.ipynb
-# 📘 (Optional) NER training notebook
+├── requirements.txt # 📦 Python dependencies
 
-├── requirements.txt
-# 📦 Python dependencies
+├── README.md # 📄 Project documentation
 
-└── README.md
-# 📄 Project documentation
 
 
 
