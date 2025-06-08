@@ -67,8 +67,8 @@ Resume_Digest_NER/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ResumeDigest-NER.git
-cd ResumeDigest-NER
+git clone https://github.com/yourusername/Resume_Digest_NER.git
+cd Resume_Digest_NER
 ```
 
 ### 2. Create and activate a virtual environment (Optional) 
