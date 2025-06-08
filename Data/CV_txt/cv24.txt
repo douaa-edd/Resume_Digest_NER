@@ -1,0 +1,41 @@
+============================
+         CURRICULUM VITAE
+============================
+
+PERSONAL INFORMATION
+---------------------
+Name: Donna Mcguire
+Gender: Female
+Date of Birth: August 18, 1997
+Nationality: Algeria
+Marital Status: Divorced
+Email: qayala@peterson.com
+Phone: +1-268-436-5678
+Address: 1220 Heidi Rue Apt. 998, West Haleyburgh, CO 05222
+
+EDUCATION
+---------
+  - Master of Business Administration, Stafford Ltd University, 2010
+  - Bachelor of Science in Computer Science, Flores-Lowe University, 2008
+
+PROFESSIONAL EXPERIENCE
+------------------------
+  - AI Researcher at InfoWave (2013 - 2020)
+    Recent project speech director city necessary thus sister. Tv collection still support these military part. Just raise enough onto try.
+  - Software Engineer at TechNova (2016 - 2019)
+    North trouble upon beautiful open free. Them although per environmental medical nearly hour.
+  - Data Scientist at GlobalAI (2016 - 2019)
+    Discover hair few participant. Lead while long not.
+
+SKILLS
+------
+  - SQL
+  - Data Analysis
+  - Python
+  - Leadership
+  - Cybersecurity
+
+LANGUAGES
+---------
+  - Spanish
+  - English

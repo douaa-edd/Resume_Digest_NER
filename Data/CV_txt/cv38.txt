@@ -1,0 +1,43 @@
+CURRICULUM VITAE
+
+NAME: MICHAEL A. THORNTON  
+EMAIL: michael.thornton@datasync.io  
+PHONE: +1 646 334 2211  
+ADDRESS: 18 Clarkson St, Brooklyn, NY, USA
+
+PROFESSIONAL SUMMARY  
+Data engineer with 7+ years of experience building data pipelines, implementing ETL workflows and collaborating with data scientists in cloud environments.  
+Expertise in AWS, Spark, SQL, and Python.
+
+EXPERIENCE  
+
+Company: DataSync Technologies  
+Position: Lead Data Engineer  
+Period: March 2020 – Present  
+• Designed and deployed a real-time data pipeline using Kafka, Spark Streaming and Redshift  
+• Led a migration of legacy systems to AWS S3 and Glue  
+• Mentored a team of 5 junior engineers  
+• Collaborated with analytics teams to improve query performance by 60%
+
+Company: CloudFusion Inc.  
+Role: Data Engineer  
+Dates: July 2016 – Feb 2020  
+Developed automated ETL processes in Airflow and Python  
+Integrated third-party APIs for customer and sales data  
+Wrote complex SQL queries for data validation and reporting  
+Worked closely with DevOps team to containerize workflows using Docker
+
+EDUCATION  
+Master in Computer Science – New York University (2014–2016)  
+Bachlor in Information Systems – Temple University (2010–2014)
+
+CERTIFICATIONS  
+AWS Certified Data Analytics – Specialty – Issued Aug 2022  
+Databricks Certified Associate Developer – Apache Spark 3.0 – 2021
+
+TECHNICAL SKILLS  
+Languages: Python, SQL, Scala  
+Frameworks: Apache Spark, Hadoop, Airflow  
+Databases: PostgreSQL, Redshift, MongoDB  
+Tools: Git, Docker, Jenkins  
+Cloud: AWS (EC2, S3, Glue, Lambda), GCP (BigQuery)  

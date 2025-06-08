@@ -1,0 +1,42 @@
+============================
+         CURRICULUM VITAE
+============================
+
+PERSONAL INFORMATION
+---------------------
+Name: Brandon Olson
+Gender: Non-binary
+Date of Birth: January 23, 2002
+Nationality: Tokelau
+Marital Status: Divorced
+Email: donald12@shields.net
+Phone: 006.897.1785
+Address: 03374 Walker Park Suite 851, West Ashleybury, MN 50460
+
+EDUCATION
+---------
+  - Bachelor of Arts in Economics, Hall and Sons University, 2017
+
+PROFESSIONAL EXPERIENCE
+------------------------
+  - AI Researcher at TechNova (2015 - 2016)
+    Executive partner story budget great than. Prevent hear trouble it grow. Should research executive black tough building.
+  - AI Researcher at GlobalAI (2015 - 2020)
+    Usually sea upon full director race. Let left very your stock determine.
+
+SKILLS
+------
+  - Cloud Computing
+  - Leadership
+  - Python
+  - C++
+  - Project Management
+  - SQL
+  - Data Analysis
+
+LANGUAGES
+---------
+  - Spanish
+  - French
+  - English
+  - Arabic

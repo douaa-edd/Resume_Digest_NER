@@ -1,0 +1,66 @@
+Name: Oliver Grant  
+Gender: Male  
+Job Title: UX/UI Designer  
+Location: 22 Willow Lane, Seattle, WA  
+Phone: +1 (206) 555-0451  
+Email: oliver.grant.design@gmail.com  
+Portfolio: www.olivergrantux.com  
+LinkedIn: linkedin.com/in/oliver-grant  
+
+===========================  
+SUMMARY  
+===========================  
+Creative and user-centered UX/UI Designer with 6+ years of experience designing intuitive web and mobile applications. Skilled at user research, prototyping, wireframing, and design systems. Passionate about creating seamless user experiences that balance form and function.
+
+===========================  
+PROFESSIONAL EXPERIENCE  
+===========================  
+Lead UX Designer  
+BrightLoop Studios | Seattle, WA  
+2021 – Present  
+- Led end-to-end design of a mobile app for mental health tracking, resulting in 4.8/5 App Store rating.  
+- Conducted user interviews and usability testing for B2B and B2C platforms.  
+- Collaborated with developers using Figma and Zeplin for hand-off and implementation.
+
+UI/UX Designer  
+TechNest Digital | Remote  
+2017 – 2021  
+- Designed over 15 responsive websites for e-commerce and SaaS clients.  
+- Created wireframes, prototypes, and final UI for both web and mobile platforms.  
+- Introduced accessibility improvements (WCAG 2.1), enhancing user reach by 20%.
+
+===========================  
+EDUCATION  
+===========================  
+Bachelor of Fine Arts in Interaction Design  
+California College of the Arts, 2013 – 2017
+
+===========================  
+DESIGN SKILLS  
+===========================  
+• Wireframing & Prototyping  
+• UI Design & Interaction Design  
+• Design Systems & Style Guides  
+• Usability Testing & Heuristics  
+• Responsive Design  
+• Accessibility (ADA/WCAG)
+
+===========================  
+TOOLS  
+===========================  
+Figma, Adobe XD, Sketch, InVision, Zeplin, Miro  
+
+===========================  
+LANGUAGES  
+===========================  
+• English – Native  
+• German – Fluent  
+• Japanese – Basic  
+
+===========================  
+CERTIFICATIONS  
+===========================  
+• Google UX Design Professional Certificate  
+• Certified Usability Analyst (CUA) – HFI  
+• Adobe Certified Expert (ACE)
+

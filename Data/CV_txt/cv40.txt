@@ -1,0 +1,25 @@
+Robert Johnson
+ robert.johnson@cybersec.io | +1 (212) 555-8932 | New York, NY
+
+Cybersecurity Specialist with 6 years of experience in network security, ethical hacking, and risk assessment. Proven ability to identify system vulnerabilities and design mitigation strategies.
+
+Education:
+- Master’s in Information Security – Carnegie Mellon University (2015–2017)
+- Bachelor of Science in Information Technology – Rutgers University (2011–2015)
+
+Work Experience:
+- Cybersecurity Consultant, IBM – 2021–Present
+    ▪ Performed penetration testing on over 30 client systems
+    ▪ Designed secure infrastructures for government clients
+- Security Analyst, Cisco Systems – 2017–2021
+    ▪ Led malware analysis and forensic investigations
+    ▪ Collaborated with global teams to monitor cyber threats
+
+Tools & Skills:
+- Kali Linux, Wireshark, Nessus
+- Firewalls, IDS/IPS, SIEM
+- Python, Bash scripting
+- CISSP Certified
+
+Languages:
+- English (native), Spanish (intermediate)

@@ -1,0 +1,23 @@
+
+MORGAN Maxwell
+Date of Birth: March 5, 1990
+Gender: Male
+Email: maxwell.morgan@example.com
+Phone: +1 555-123-4567
+
+Skills:
+- Python, Java, C++
+- Machine Learning, Data Analysis
+- SQL, Tableau
+
+Education:
+- MSc in Computer Science, MIT, 2014
+- BSc in Mathematics, Boston University, 2012
+
+Languages:
+- English (native)
+- French (intermediate)
+
+Experience:
+- Data Scientist at DataCorp (2015–2020)
+- Software Engineer at TechSolutions (2020–present)

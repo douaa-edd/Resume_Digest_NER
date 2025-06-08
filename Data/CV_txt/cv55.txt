@@ -1,0 +1,32 @@
+Name: John Smith  
+Gender: Male  
+Job Title: Waiter  
+Location: Los Angeles, CA  
+Email: john.smith.waiter@email.com  
+Phone: (323) 555-2378  
+Languages: English (Native), Spanish (Basic)  
+
+Profile 
+Friendly and customer-oriented waiter with 3 years of experience in fast-paced restaurants. Efficient in taking orders, serving food, and ensuring customer satisfaction. Works well in a team and thrives in busy environments.
+
+Work History 
+Waiter – The Garden Bistro  
+Los Angeles, CA | May 2021 – Present  
+- Greet and seat customers, take food orders, and ensure accurate delivery.  
+- Assist kitchen staff in delivering orders to tables.  
+- Maintain cleanliness of dining area and restock supplies as needed.  
+
+Waiter – Sunset Grill  
+Los Angeles, CA | Jun 2019 – Apr 2021  
+- Provided excellent customer service in a high-volume restaurant.  
+- Helped prepare and serve drinks, appetizers, and desserts.  
+- Processed payments and provided change to customers.
+
+Education 
+High School Diploma  
+Lincoln High School, Los Angeles | Graduated 2018  
+
+Skills
+- Customer service  
+- Basic food and drink knowledge  
+- Ability to work in a fast-paced environment  

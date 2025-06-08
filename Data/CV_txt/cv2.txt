@@ -1,0 +1,42 @@
+Mohamed Lakhdar
+Benguerir, 43150
+Email: m0h4m3dl4khd4r@gmail.com | mlakhdar4918@uca.ma.ac
+GitHub: https://github.com/medlkhdr | Phone: 0659421996
+OBJECTIVE
+Driven and dedicated computer science student with hands-on experience in low-level
+programming, security challenges (CTFs), and networking. Passionate about continuous
+learning and solving complex problems. Seeking to contribute my skills and enthusiasm for
+cutting-edge technologies to the UM6P Computer Science Program.
+EDUCATION
+FSSM - Applied Computer Science
+University of Cadi Ayyad, Marrakech
+Expected Graduation: June 2025
+1337 - Elite Computer Science Program
+Moroccan 1337 Network
+Started: July 2024 – Present
+TECHNICAL SKILLS
+• Programming: C, C++, JavaScript, SQL, Bash
+• Web Development: HTML, CSS
+• Networking: Cisco-certified, Packet Tracer simulations
+• Low-Level & Security: Reverse engineering, CTF challenges, memory management
+• Tools: Git, Docker, Visual Studio Code
+• OS: Linux, Windows
+PROJECTS & EXPERIENCE
+Compiler Development
+• Currently developing a compiler to understand and process programming
+languages. Focused on implementing lexical analysis, syntax parsing, and code
+generation.
+• Utilizing C/C++ for implementation and building a solid understanding of compiler
+theory.
+CTF Challenges
+• Actively participated in Capture The Flag competitions, tackling reverse
+engineering, cryptography, and low-level problem solving using C, C++, and Bash.
+• Shared solutions and techniques via GitHub to document progress and learnings.
+Low-Level Network Simulation
+• Developed and simulated network setups in Packet Tracer, applying routing,
+subnetting, and security protocols.
+ADDITIONAL INFORMATION
+• Languages: Fluent in Arabic, French, and English.
+• Certifications: Cisco Networking
+• GitHub: https://github.com/medlkhdr - Projects, CTF solutions, and coding
+challenges.

@@ -1,0 +1,23 @@
+
+Michael Chen
+Date of Birth: December 3, 1990
+Gender: Male
+Email: michael.chen@domain.com
+Phone: +61 412 345 678
+
+Skills:
+- Data Engineering, ETL, Apache Spark
+- Cloud Platforms: AWS, Azure
+- SQL, Python, BigQuery
+
+Education:
+- M.Sc. in Data Science, University of Melbourne, 2015
+- B.Sc. in Information Technology, Monash University, 2012
+
+Languages:
+- English (fluent)
+- Mandarin (native)
+
+Experience:
+- Data Engineer at DataStream (2018–present)
+- Business Intelligence Analyst at InfoSys (2015–2018)

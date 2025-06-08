@@ -1,0 +1,68 @@
+Name: Lina Martinez  
+Gender: Female  
+Job Title: Data Analyst  
+Location: 88 Central Street, Miami, FL  
+Phone: +1 (786) 265-0293  
+Email: lina.martinez.data@gmail.com  
+Website: www.linamartinezdata.com  
+LinkedIn: linkedin.com/in/lina-martinez  
+
+-----------------------------  
+PROFILE  
+-----------------------------  
+Detail-oriented and analytical Data Analyst with 5+ years of experience transforming complex data into actionable insights. Adept at data visualization, statistical analysis, and building dashboards that support strategic decisions in business and healthcare environments.
+
+-----------------------------  
+CORE COMPETENCIES  
+-----------------------------  
+• Data Cleaning and Transformation  
+• Dashboard Development (Power BI, Tableau)  
+• SQL Querying and Database Management  
+• Statistical Modeling and Hypothesis Testing  
+• Predictive Analytics and Forecasting  
+• Cross-functional Collaboration  
+
+-----------------------------  
+WORK EXPERIENCE  
+-----------------------------  
+**Senior Data Analyst**  
+HealthPlus Analytics, Miami, FL  
+2021 – Present  
+- Analyzed patient data to identify trends, helping reduce hospital readmission rates by 18%.  
+- Created automated dashboards for executive reporting using Power BI.  
+- Developed predictive models using Python (scikit-learn) to estimate patient no-shows.
+
+**Junior Data Analyst**  
+MarketBright Solutions, Remote  
+2018 – 2021  
+- Cleaned and processed large marketing datasets using SQL and pandas.  
+- Performed A/B testing for digital campaigns, improving click-through rate by 12%.  
+- Delivered weekly data reports to stakeholders with insights and KPIs.
+
+-----------------------------  
+EDUCATION  
+-----------------------------  
+Bachelor of Science in Statistics  
+Florida International University, 2014 – 2018
+
+-----------------------------  
+TECHNICAL SKILLS  
+-----------------------------  
+Programming: Python, R, SQL  
+Tools: Excel, Tableau, Power BI, Google Data Studio  
+Libraries: Pandas, NumPy, Matplotlib, Seaborn  
+
+-----------------------------  
+LANGUAGES  
+-----------------------------  
+• English – Fluent  
+• Spanish – Native  
+• French – Intermediate  
+
+-----------------------------  
+CERTIFICATIONS  
+-----------------------------  
+• Google Data Analytics Professional Certificate  
+• Tableau Desktop Specialist  
+• Python for Data Science – Coursera
+

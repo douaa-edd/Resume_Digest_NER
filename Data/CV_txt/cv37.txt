@@ -1,0 +1,21 @@
+CURRICULUM VITAE  
+Name : Mohamed Salah  
+E-mail : msalah@uni-casablanca.ma  
+Mobile : +212623349475  
+
+Objective:  
+Looking to contribute in the field of AI and NLP as part of a research institution.
+
+Education:  
+Master of Science in Artificial Intelligence  
+Université Hassan II, Casablanca  
+2019 - 2021
+
+Bachelor: Computer Science, same university (2016–2019)
+
+Research Experience:  
+RA, Faculty of Science, Casablanca  
+Topic: Arabic Text Classification using BERT  
+Tools: Python, TensorFlow, Huggingface  
+
+Languages: Arabic (native), English (fluent), French (intermediate)  

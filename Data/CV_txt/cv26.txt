@@ -1,0 +1,42 @@
+============================
+         CURRICULUM VITAE
+============================
+
+PERSONAL INFORMATION
+---------------------
+Name: Eric Hall
+Gender: Male
+Date of Birth: December 22, 1991
+Nationality: Bangladesh
+Marital Status: Married
+Email: ruizphillip@hoover.com
+Phone: 001-061-435-2125
+Address: 68021 Christopher Mountain, Port Aaron, RI 54922
+
+EDUCATION
+---------
+  - Bachelor of Arts in Economics, Thompson, Young and Hebert University, 2007
+
+PROFESSIONAL EXPERIENCE
+------------------------
+  - Software Engineer at CyberCore (2011 - 2017)
+    Southern job high she past especially old. Still quality political other begin war. Evening realize per probably.
+  - AI Researcher at GlobalAI (2012 - 2015)
+    Of process cut meet build. Really listen meeting language. Lawyer fund indicate help.
+
+SKILLS
+------
+  - Web Development
+  - Leadership
+  - Python
+  - Machine Learning
+  - Project Management
+  - Communication
+  - Cloud Computing
+
+LANGUAGES
+---------
+  - French
+  - English
+  - German
+  - Spanish

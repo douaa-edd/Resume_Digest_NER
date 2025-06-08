@@ -1,0 +1,43 @@
+============================
+         CURRICULUM VITAE
+============================
+
+PERSONAL INFORMATION
+---------------------
+Name: George Williams
+Gender: Male
+Date of Birth: February 21, 1976
+Nationality: Tunisia
+Marital Status: Divorced
+Email: adam02@buchanan.com
+Phone: +1-683-735-9191x558
+Address: 0803 Miller Ways Suite 334, Larryfurt, NJ 45581
+
+EDUCATION
+---------
+  - Bachelor of Arts in Economics, Allen, Torres and Arnold University, 2011
+  - PhD in Artificial Intelligence, Murray Ltd University, 2015
+
+PROFESSIONAL EXPERIENCE
+------------------------
+  - System Analyst at NextGen Systems (2012 - 2013)
+    True include management. Brother bank better she increase try. Partner stand next though house where.
+  - System Analyst at CyberCore (2017 - 2018)
+    Detail subject everything goal yes blue tonight. Must cut father kid painting movie end discussion.
+
+SKILLS
+------
+  - Java
+  - Project Management
+  - SQL
+  - Cybersecurity
+  - Cloud Computing
+  - C++
+  - Web Development
+  - Python
+
+LANGUAGES
+---------
+  - Mandarin
+  - English
+  - French
