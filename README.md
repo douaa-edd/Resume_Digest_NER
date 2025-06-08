@@ -31,10 +31,10 @@ The system is based on a **pre-trained Transformer model**, bert-base-cased, fin
 
 ## 📁 Project Structure
 
-
+```bash
 Resume_Digest_NER/
 
-├── **app.py** # 🚀 Main Streamlit application
+├── app.py # 🚀 Main Streamlit application
 
 ├── model/ # 🧠 Trained spaCy NER model (with BERT backbone)
 
@@ -62,7 +62,7 @@ Resume_Digest_NER/
 
 ├── README.md # 📄 Project documentation
 
-
+```
 
 
 
