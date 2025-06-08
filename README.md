@@ -2,7 +2,7 @@
 
 **Resume_Digest_NER** is a lightweight Streamlit-based web application that allows HR professionals and recruiters to automatically extract and structure key information from CVs (PDF format) using a Named Entity Recognition (NER) model built with **spaCy** and **BERT (bert-base-cased)**.
 
----
+
 
 ## 🚀 Key Features
 
@@ -15,19 +15,19 @@
 - 📊 Outputs structured data in a downloadable **Excel (XLSX)** file  
 - 🖥️ Clean and intuitive **Streamlit** web interface  
 
----
+
 
 ## 🎯 Project Objectives
 - Accelerate CV processing and analysis for HR teams
 - Demonstrate the effectiveness of **BERT + spaCy** in real-world information extraction tasks
 - Provide a simple, extensible NLP solution that is easy to use
 
----
+
 
 ## 🧠 Model Details
 The system is based on a **pre-trained Transformer model**, bert-base-cased, fine-tuned for the specific task of named entity recognition in CVs.
 
----
+
 
 ## 📁 Project Structure
 
@@ -48,10 +48,7 @@ The system is based on a **pre-trained Transformer model**, bert-base-cased, fin
 ├── **requirements.txt** # 📦 Python dependencies
 └── **README.md** # 📘 Project documentation
 
----
 
-
----
 
 ## ⚙️ Installation
 
