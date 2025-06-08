@@ -33,8 +33,8 @@ The system is based on a **pre-trained Transformer model**, bert-base-cased, fin
 
 **Resume_Digest_NER**/
 │
-├── **app.py** # 🚀 Main Streamlit application
-├── **model**/ # 🧠 Trained spaCy NER model (with BERT backbone)
+├── **app.py** # 🚀 Main Streamlit application\n
+├── **model**/ # 🧠 Trained spaCy NER model (with BERT backbone)\n
 │
 ├── **Data**/
 │ ├── **CV_pdf**/ # 📄 Input resumes in PDF format
