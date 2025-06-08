@@ -42,15 +42,11 @@ Resume_Digest_NER/
 │
 │   ├── CV_pdf/ # 📄 Input resumes in PDF format
 │
-|
 │   ├── CV_txt/ # 📝 Raw extracted text from PDFs
 │   
-│
 │   ├── CV_cleaned/ # 🧹 Cleaned/preprocessed CV text
 │   
-│
 │   └── CV_annot/ # 🏷️ (Optional) annotated data for future training
-|
 │   
 ├── pdf_to_txt.py # 🔧 PDF-to-text conversion script
 
