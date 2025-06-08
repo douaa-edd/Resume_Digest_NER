@@ -46,9 +46,9 @@ Resume_Digest_NER/
 │   
 │   ├── CV_cleaned/ # 🧹 Cleaned/preprocessed CV text
 │   
-│   └── CV_annot/ # 🏷️ (Optional) annotated data for future training
-│   
-├── pdf_to_txt.py # 🔧 PDF-to-text conversion script
+│   ├── CV_annot/ # 🏷️ (Optional) annotated data for future training
+│
+│   ├── pdf_to_txt.py # 🔧 PDF-to-text conversion script
 
 ├── Data_Preprocessing.py # ⚙️ Cleaning & text preprocessing utilities
 
